@@ -12,3 +12,5 @@ Features
 Contact
 📧 Diep Ngo – [diepngo0531@gmail.com]
 GitHub: @diepngo21
+
+![Netflix V2 Preview](img.png)
