@@ -1,6 +1,6 @@
-MediaFlow
+Netflix_V2
 
-MediaFlow is a Netflix-inspired frontend web application that allows users to browse and explore movies and TV shows. Built using modern web technologies, it replicates the sleek and interactive user interface of Netflix, providing a seamless streaming-like experience. This project focuses solely on the frontend, fetching movie data from an external API.
+Netflix_V2 is a Netflix-inspired frontend web application that allows users to browse and explore movies and TV shows. Built using modern web technologies, it replicates the sleek and interactive user interface of Netflix, providing a seamless streaming-like experience. This project focuses solely on the frontend, fetching movie data from an external API.
 
 Features
 🎨 Modern UI – A clean, responsive, and visually appealing design
@@ -9,8 +9,5 @@ Features
 📺 Movie Details – View detailed information about each title
 🌍 Responsive Design – Works across all devices (desktop, tablet, mobile)
 
-Contact
-📧 Diep Ngo – [diepngo0531@gmail.com]
-GitHub: @diepngo21
 
 ![MediaFlow Preview](img.png)
